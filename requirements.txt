@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow
+tensorflow==2.12.0
 keras
-matplotlib
+matplotlib==3.7.1
 joblib
